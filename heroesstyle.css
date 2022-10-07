@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #1CD1B0;
+    padding-top: 0.4px;
+    font-weight: 100;
+}
+
+h1 {
+    background-color: #00669F;
+    padding: 35px;
+}
+
+div {
+    position: absolute;
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 600px;
+    margin-left: 5%;
+    border-radius: 3%;
+    margin-top: 5%;
+}
+
+.Batman {
+    position: absolute;
+    top: 130px;
+    left: 85px;
+    border-radius: 50%;
+}
+
+h3 {
+    position: absolute;
+    top: 250px;
+    font-weight: 500px;
+    left: 35%;
+}
+
+p {
+    position: absolute;
+    top: 300px;
+    font-weight: 500px;
+    text-align: left;
+}
+
+.mirarmas {
+    position: absolute;
+    top: 500px;
+    left: 70px;
+}
+
+.herley {
+    position: absolute;
+    margin: auto;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.nombreharley {
+    position: absolute;
+    left: 27%;
+}
+
+.bat {
+    position: absolute;
+    margin-left: 85%;
+}
+
+footer {
+    position: relative;
+    top: 700px;
+}
+
+.pfooter {
+    padding: 35px;
+    background-color: #00669F;
+    color: white;
+    width: 100%;
+}
